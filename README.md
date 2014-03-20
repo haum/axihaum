@@ -20,4 +20,7 @@ Note: dans la version originale, Z n'est pas motorisé.
 
 Pour le nommage et les vues, on considère la fraiseuse vue de face dans le prolongement de l'axe X (axe le plus long), l'axe Y étendu de gauche à droite, Z de haut en bas.
 
-
+Fichiers:
+ - X_SY_RT: X, Support for Y, Right Top
+ - Y_P_L: Y, Part, Left
+ - Y_P_R: Y, Part, Right
