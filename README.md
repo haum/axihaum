@@ -12,12 +12,12 @@ Les fichiers DXF ainsi que les couches (DXF et FreeCAD) sont nommé de la façon
 Y_P_L.dxf
 
  - où Y est l'initiale la partie concernée (X, Y, Z et C pour le chassis)
- - où P est l'initiale de la sous-partie concernée (Part, Axis, Screw)
+ - où P est l'initiale de la sous-partie concernée (Part, Guide, Screw)
  - où L est l'initiale du coté concerné (Left, Right, Up, Down)
 
 Les axes X, Y et Z sont nommé du plus grand (X) au plus petit (Z).
-Note: dans la version originale Z n'est pas motorisé.
+Note: dans la version originale, Z n'est pas motorisé.
 
-Pour l'appelation et les vues, on considère la fraiseuse vue de face dans le prolongement de l'axe X (axe le plus long), l'axe Y étendu de gauche à droite, Z de haut en bas.
+Pour le nommage et les vues, on considère la fraiseuse vue de face dans le prolongement de l'axe X (axe le plus long), l'axe Y étendu de gauche à droite, Z de haut en bas.
 
 
