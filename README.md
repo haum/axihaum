@@ -29,11 +29,14 @@ Fichiers:
    - X_SY_B: X, Support for Y, Bottom
    - Y_P_L: Y, Part, Left
    - Y_P_R: Y, Part, Right
-   - C_T: Chassis, Table
+   - C_T: Case, Table
 
  * FreeCAD (3D)
-    - axihaum: modèlisation de la LPKS ProtoMat 91s
-    - C_T: Chassic, Table
+   - axihaum: modèlisation de la LPKS ProtoMat 91s
+   - C_T: Chassic, Table
+   - A_LB: Accessories, Linear Bearing
+   - Z_P: Z, Panel
+   - Z_S: Z, Support
 
 Notes:
  * les premières parties de la modèlisation 3D ont été réalisées à partir d'imports de DXF, extrudés et soustraits.
