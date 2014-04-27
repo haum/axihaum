@@ -35,6 +35,9 @@ Fichiers:
    - axihaum: modèlisation de la LPKS ProtoMat 91s
    - C_T: Chassic, Table
    - A_LB: Accessories, Linear Bearing
+   - A_M: Accessories, NEMA23 Motor
+   - A_C_NEMA23: Accessories, NEMA23 coupler (D6.35 -> D8)
+   - A_T: Accessories, Transmission (with Top, Left/Right, Bottom as separate files)
    - Z_P: Z, Panel
    - Z_S: Z, Support
 
