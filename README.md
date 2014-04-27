@@ -38,6 +38,7 @@ Fichiers:
    - A_M: Accessories, NEMA23 Motor
    - A_C_NEMA23: Accessories, NEMA23 coupler (D6.35 -> D8)
    - A_T: Accessories, Transmission (with Top, Left/Right, Bottom as separate files)
+   - A_LB_SBR12UU: Accessories, Linear Bearing, SBR12UU
    - Z_P: Z, Panel
    - Z_S: Z, Support
 
