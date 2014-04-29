@@ -32,10 +32,12 @@ Fichiers:
    - C_T: Case, Table
 
  * FreeCAD (3D)
-   - axihaum: modèlisation de la LPKS ProtoMat 91s
+   - LPKS_ProtoMat: modèlisation de la LPKS ProtoMat 91s (original)
+   - axihaum: modèlisation de la version modifiée de la LPKS
    - C_T: Chassic, Table
    - A_LB: Accessories, Linear Bearing
    - A_M: Accessories, NEMA23 Motor
+   - A_T: Accessories, Transmission
    - A_FME-1_1050: Accessories, Spindle model based on Kress FME-1 1050
    - A_C_NEMA23: Accessories, NEMA23 coupler (D6.35 -> D8)
    - A_T: Accessories, Transmission (with Top, Left/Right, Bottom as separate files)
